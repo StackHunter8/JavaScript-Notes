@@ -1,4 +1,5 @@
 //arrow functions are used for cleaning or ececuting one line operations
+// arrow functions are also called as lambda functions
 let f = ()=>{
     console.log("hello im smokky");
     
