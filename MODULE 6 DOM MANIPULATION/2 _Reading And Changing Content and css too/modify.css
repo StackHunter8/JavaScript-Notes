@@ -1,0 +1,12 @@
+.headings{
+    color: cadetblue;
+
+}
+h2{
+    color: red;
+}
+#parra{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
