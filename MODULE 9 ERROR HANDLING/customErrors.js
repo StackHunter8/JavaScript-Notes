@@ -66,3 +66,25 @@ async function getAllUsers(){
 }
 
 getAllUsers();
+
+// Important Difference
+
+// In Java:
+
+// Exception name = class name
+
+// Example:
+
+// AgeException
+
+// In JavaScript:
+
+// The default name is usually:
+
+// Error
+
+// So we manually set:
+
+// this.name = "AgeError";
+
+// to identify the error type.
