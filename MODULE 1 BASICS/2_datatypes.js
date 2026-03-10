@@ -42,8 +42,8 @@
 // diiference between null and undefined
 
 // undefined 
-// -it occur when u just declare the variable and didnyt asigned the value to it
-// js engine assigned undefined val to that variaable 
+// -it occur when u just declare the variable and didnot asigned the value to it
+// js engine assigned undefined val to that variable 
 //-dtype undefined asto
 
 // null 

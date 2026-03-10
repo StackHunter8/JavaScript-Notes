@@ -3,11 +3,11 @@
 //Promise is nothing bt a object in js.
 // A Promise represents the future result of an async operation.
 // it has three states resolve,reject,pending
-// if the promise ois sucesfull to do the work tyhe state is resolve,if it fails the state is reject 
+// if the promise is sucesfull to do the work the state is resolve,if it fails the state is reject 
 //  ,and if it is in process then the state is pending
 
 
-// let us again taake the example of pizza
+// let us again take the example of pizza
 
 // let promise = new Promise((resolve,reject)=>{
 //         let isPizzaReady = true;
