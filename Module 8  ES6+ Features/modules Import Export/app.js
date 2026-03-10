@@ -18,5 +18,5 @@ import greet,{ sum,substract} from "./math.js";
 
 console.log(sum(10,29));
 console.log(substract(20,10));
-greet()
+greet();
 
